@@ -24,6 +24,7 @@ const databaseUrl = `mongodb+srv://Andre2020:${encodeURIComponent(
 mongoose.connect(process.env.MONGODB_URI || databaseUrl, {
   useNewUrlParser: true,
   useFindAndModify: false,
+  useUnifiedTopology: true,
 });
 
 // routes
