@@ -35,9 +35,7 @@ A simple budget tracker with offline/online refresh interactions
 
 ## User Story
 
-```
-As a user, I want to be able to track my expenses and maintain a budget. I should be able to track the my transactions both online AND offline, incase I do not have an internet connection available. The budget tracker should update once I go back online.
-```
+`As a user, I want to be able to track my expenses and maintain a budget. I should be able to track the my transactions both online AND offline, incase I do not have an internet connection available. The budget tracker should update once I go back online.`
 
 ## Usage
 
